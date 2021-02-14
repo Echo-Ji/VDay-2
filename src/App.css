@@ -25,7 +25,7 @@
   height: 240px;
   border: 3px solid pink;
   position: fixed;
-  left: 1%;
+  left: 0%;
   transform: translate(-50%, 0);
   bottom: 30%;
   border-radius: 10px;
@@ -66,7 +66,7 @@
   z-index: 999;
   position: absolute;
   left: 178px;
-  top: 95px;
+  top: 90px;
   cursor: pointer;
   animation: pound .25s infinite alternate;
 }
@@ -78,7 +78,7 @@
   position: absolute;
   top: -60px;
   /* left: 20px; */
-  left: 10%;
+  left: 8%;
   color: #0D1F2D;
   font-size: 24px;
 }
