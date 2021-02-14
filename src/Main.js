@@ -77,7 +77,7 @@ class Main extends Component {
             <div className="App animated bounceInLeft">
                 <div className="date">{date()}</div><br /><br />
                 <div id="autotype">
-                    <h1 style={{ fontWeight: 900 }}>我最爱的宝贝老婆！</h1>
+                    <h2 style={{ fontWeight: 900 }}>我最爱的宝贝老婆！</h2>
                     <p >在煽情开始之前，先放首歌当背景音乐吧！Music!</p>
                     <p>今天是我们在一起的第2个情人节，这个数字现在看起来虽然有些小，但是我相信啊，它会一直长下去，长成一个好大好大的数字。</p>
                     <p>第一个情人节的时候我在如火如荼地赶论文ddl，特别遗憾错过了为我们庆祝的机会，那个时候感觉很对不起宝贝，所以呀，我精心策划了我们的100天纪念日。</p>
